@@ -22,6 +22,7 @@ A machine learning model that classifies house prices based on features like loc
 ->ML Models: Decision Tree, Random Forest, SVM, KNN
 
 🔧 Installation
+
 1.Clone the repository:
 git clone https://github.com/reethika/houseprice.git
 
@@ -39,9 +40,13 @@ python main.py
 The dataset contains features like:
 
 ->Location
+
 ->Total Area (sq ft)
+
 ->Number of Bedrooms & Bathrooms
+
 ->Garage & Pool Availability
+
 ->Price Category (Low, Medium, High)
 
 🎯 Usage
